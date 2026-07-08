@@ -335,9 +335,9 @@ Aspiring Data Analyst
 
 **Skills:** Python • SQL • Power BI • Excel • Pandas • NumPy • Data Visualization
 
-📧 Email: nanit3022@gmail.com
+📧 Email: reshmr2001@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/thirunam-nagendra-kumar-167165313 
+ 
 
 
 ---
